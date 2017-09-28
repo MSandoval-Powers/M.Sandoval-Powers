@@ -2,7 +2,7 @@
 ## Part A
 This exercise requires two museum collections from the GBIF repository for two subspecies of house mice:
 
-[0008658-160822134323880.csv](https://github.com/MSandoval-Powers/practice)
+[0008658-160822134323880.csv](https://github.com/MSandoval-Powers/practice/blob/master/0008658-160822134323880.csv)
 
 [0008659-160822134323880.csv](https://github.com/MSandoval-Powers/practice/blob/master/0008659-160822134323880.csv)
 
