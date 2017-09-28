@@ -48,7 +48,7 @@ _NOTE: Opened csv file and counted to see that latitude coordinates were in 17th
 
 _NOTE: Opened csv file and counted to see that longitude coordinates were in 18th column_
 
-`sort -k18n DOM_lat_uniq.txt | uniq DOM_lat_long_uniq.txt
+`sort -k18n DOM_lat_uniq.txt | uniq DOM_lat_long_uniq.txt`
 
 7. Compared line count of original file (`wc -l DOMFILE.csv`) to new file (`wc -l DOM_lat_long_uniq.txt`) 
 
