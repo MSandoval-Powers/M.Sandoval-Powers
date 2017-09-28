@@ -4,7 +4,7 @@ This exercise requires two museum collections from the GBIF repository for two s
 
 [0008658-160822134323880.csv](https://github.com/MSandoval-Powers/practice)
 
-[CSV File 2](repositorypath)
+[0008659-160822134323880.csv](https://github.com/MSandoval-Powers/practice/blob/master/0008659-160822134323880.csv)
 
 **Steps for Part A**
 
